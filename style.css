@@ -1,0 +1,19 @@
+body{
+    margin: 0;padding: 0; display: flex; flex-direction: column;
+    align-items: center; 
+}
+section{
+    height: 100vh; width: 100%;
+}
+.intro{
+    background: linear-gradient(45deg, #f8a807a2, #e51a2fa2);
+    display: flex; flex-direction: column; align-items: center;
+    text-align: center;
+}
+.container{
+    width: 80%;
+}
+nav{
+    display: flex; flex-direction: row;
+
+}
